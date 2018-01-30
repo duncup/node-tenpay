@@ -1,5 +1,6 @@
 # 微信支付 for nodejs
 [![travis][travis]][travis-u] [![npm][npm]][npm-u] [![node][node]][node-u] [![issues][issues]][issues-u] [![commit][commit]][commit-u]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fduncup%2Fnode-tenpay.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fduncup%2Fnode-tenpay?ref=badge_shield)
 
 - `支付结果通知` - 支持Express和Koa(仅支持node 8.3.0以上版本)
 - `微信支付API` - 支持使用await/async和promise/then方式调用
@@ -303,3 +304,7 @@ api.redpackQuery({
 [issues-u]: https://github.com/befinal/node-tenpay/issues
 
 [downloads]: https://img.shields.io/npm/dm/tenpay.svg
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fduncup%2Fnode-tenpay.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fduncup%2Fnode-tenpay?ref=badge_large)
